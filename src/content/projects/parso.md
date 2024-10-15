@@ -4,9 +4,11 @@ description: Parso is an attempt to write an Parser Combinator from Scratch in T
 publishDate: 'Sept 25 2024'
 seo:
   image:
-    src: '/project-dokeshi/dokeshi.webp'
-    alt: dokeshi
+    src: '/project-parso/parso.webp'
+    alt: parso
 ---
+
+<img src="/public/project-parso/parso.webp" height="500px" width="150px" alt="parso">
 
 You can view the source code of this project here: [Github](https://github.com/sagnikc395/parso)
 
