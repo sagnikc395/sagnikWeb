@@ -1,6 +1,6 @@
 ---
-title: 'rex: A RegEx machine in Typescript'
-description: An silly attempt to write an regex machine from scratch in Typescript.
+title: 'rex: A RegEx machine in Go'
+description: An silly attempt to write an regex machine from scratch in Go.
 publishDate: 'Aug 22 2024'
 seo:
   image:
