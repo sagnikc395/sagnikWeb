@@ -8,6 +8,8 @@ seo:
     alt: dokeshi
 ---
 
+You can view the source of the code here : [Github](https://github.com/sagnikc395/taskly)
+
 Creating a task scheduler involves understanding key theoretical concepts in software development, including concurrency, scheduling algorithms, time management, and system reliability.
 Main Concepts in this regard :
 
